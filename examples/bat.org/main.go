@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ziutek/telnet"
+	"github.com/cheesestraws/telnet"
 )
 
 func checkErr(err error) {

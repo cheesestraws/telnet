@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ziutek/telnet"
+	"github.com/cheesestraws/telnet"
 )
 
 const timeout = 10 * time.Second
